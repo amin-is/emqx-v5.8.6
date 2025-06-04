@@ -1,6 +1,6 @@
 English | [简体中文](./README-CN.md) | [Русский](./README-RU.md)
 
-# EMQX
+# EMQX v5.8.6 (Open Source Version)
 
 [![GitHub Release](https://img.shields.io/github/release/emqx/emqx?color=brightgreen&label=Release)](https://github.com/emqx/emqx/releases)
 [![Build Status](https://github.com/emqx/emqx/actions/workflows/_push-entrypoint.yaml/badge.svg)](https://github.com/emqx/emqx/actions/workflows/_push-entrypoint.yaml)
